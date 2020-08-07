@@ -1,0 +1,13 @@
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\bin\Debug\cibernuevo.exe.config
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\bin\Debug\cibernuevo.exe
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\bin\Debug\cibernuevo.pdb
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\bin\Debug\cibernuevo.xml
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.vbprojAssemblyReference.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.vbproj.GenerateResource.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.vbproj.CoreCompileInputs.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.vbproj.CopyComplete
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.exe
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.xml
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\cibernuevo\cibernuevo\obj\Debug\cibernuevo.pdb
